@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ferhat Peynirci's Journal
 
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,21 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+IE423 project part1 code: https://github.com/BU-IE-423/fall-23-FerhatPeynirci/blob/main/files/part1.ipynb
+IE423 project part1 html: https://github.com/BU-IE-423/fall-23-FerhatPeynirci/blob/main/files/part1.html
+IE423 project part1 report: https://github.com/BU-IE-423/fall-23-FerhatPeynirci/blob/main/423%20project%20part%201.pdf
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
